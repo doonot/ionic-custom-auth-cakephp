@@ -73,3 +73,4 @@ class UsersController extends AppController {
 			$this->redirect($url);
 		}
 	}
+}
